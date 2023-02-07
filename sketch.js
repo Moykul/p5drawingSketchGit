@@ -13,7 +13,7 @@ function draw() {
 
 function mouseDragged(){
   noStroke()
-  fill(20, 180, 120)
+  fill(180, 180, 60)
   circle(mouseX, mouseY, 20)
 
 }
