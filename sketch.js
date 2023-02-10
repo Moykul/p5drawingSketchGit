@@ -8,8 +8,8 @@ function setup() {
 }
 
 function draw() {
-  fill(200, 25, 25);
-  circle(300, 40, 25);
+  // fill(200, 25, 25);
+  // circle(300, 40, 25);
 
 
 }
